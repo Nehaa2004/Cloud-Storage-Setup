@@ -37,3 +37,6 @@ Go to the bucket and click UPLOAD then select the files you want to store in buc
 Search open IAM (Identity Access Management) and create USER using IAM
 Attach policy - AmazonS3ReadOnlyAccess
 Here i configures IAM USER with restricted S3 permission.
+
+OUTPUT
+<img width="1726" height="857" alt="Image" src="https://github.com/user-attachments/assets/4f7eb1cb-ec11-4455-a4cf-04582fbaacf1" />
