@@ -38,11 +38,17 @@ Ensured data security and controlled access.
 
 STEPS:
 Signed in using AWS account using username, password and MFA (Multi Factor Authentication)
+
 Region: ap-south-1
+
 In AWS Console search opened S3 (Simple Storage Service) create bukcet with unique name and keep block all public access on
+
 Go to the bucket and click UPLOAD then select the files you want to store in bucket then upload that files, I uploaded sample.txt and some index.html
+
 Search open IAM (Identity Access Management) and create USER using IAM
+
 Attach policy - AmazonS3ReadOnlyAccess
+
 Here i configures IAM USER with restricted S3 permission.
 
 OUTPUT
