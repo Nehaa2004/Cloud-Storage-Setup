@@ -39,4 +39,14 @@ Attach policy - AmazonS3ReadOnlyAccess
 Here i configures IAM USER with restricted S3 permission.
 
 OUTPUT
+1
 <img width="1726" height="857" alt="Image" src="https://github.com/user-attachments/assets/4f7eb1cb-ec11-4455-a4cf-04582fbaacf1" />
+
+2
+<img width="1732" height="911" alt="Image" src="https://github.com/user-attachments/assets/0b115bf4-8152-4f55-b993-162a9dc2e498" />
+
+3
+<img width="1921" height="891" alt="Image" src="https://github.com/user-attachments/assets/e5bfe481-4312-4c6b-a59f-1f69a7464fae" />
+
+4
+<img width="1731" height="863" alt="Image" src="https://github.com/user-attachments/assets/25cccc4f-02be-4bd1-b71f-3c18928cae7c" />
